@@ -1,5 +1,7 @@
 # 🪄 Harry Potter – Jogo de Feitiços (Scratch)
 
+ ![Imagem do jogo](jogo.png)
+
 Projeto desenvolvido como parte do curso **CS50x – Harvard**.
 
 ## 🎮 Descrição
